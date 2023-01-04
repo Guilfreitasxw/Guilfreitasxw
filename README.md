@@ -22,8 +22,8 @@
   ## Meus contatos :iphone:
 
   <p align="center">
-    <a href="https://github.com/GuiFreitasxx">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+    <a href="https://github.com/Guilfreitasxw">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Guilfreitasxw">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:guilherme.ifinity@gmail.com">
@@ -35,9 +35,9 @@
   
   </div>
     <div align="center">
-  <a href="https://github.com/GuiFreitasxx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiFreitasxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFreitasxx&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Guilfreitasxw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilfreitasxw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilfreitasxw&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 </p>
@@ -48,5 +48,5 @@
 
  
  
-  ![Snake animation](https://github.com/GuiFreitasxx/GuiFreitasxx/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Guilfreitasxw/Guilfreitasxw/blob/output/github-contribution-grid-snake.svg)
  
